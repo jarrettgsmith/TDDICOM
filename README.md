@@ -27,6 +27,7 @@ https://docs.derivative.ca/Install_TouchDesigner
 
 PYDICOM is not part of the standard Python modules included with TouchDesigner. You must install Python 3.7.2 and ensure Python is available to the Windows path.
 
+Once Python is installed you can follow the PYDICOM installation directions found here: https://github.com/pydicom/pydicom
 
 ## Team
 Jake Mandel, Jeffers Egan, Jarrett Smith
