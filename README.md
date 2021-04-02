@@ -5,7 +5,7 @@ https://pydicom.github.io
 
 ## Dependencies
 
-* Latest Experimental Version of TouchDesigner
+* TouchDesigner 2021.10000+ 
 * Python 3.7.2
 * pydicom
 * pillow
