@@ -7,6 +7,7 @@ https://pydicom.github.io
 
 * Latest Experimental Version of TouchDesigner
 * Python 3.7.2
+* pydicom
 * pillow
 * pylibjpeg
 * pylibjpeg-libjpeg
