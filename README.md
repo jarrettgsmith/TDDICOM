@@ -15,6 +15,13 @@ https://pydicom.github.io
 
 ## Installation
 
+Install the latest version of TouchDesigner.
+
+https://derivative.ca/download
+
+For more information on installing TouchDesigner go here...
+
+https://docs.derivative.ca/Install_TouchDesigner
 
 
 ## Team
