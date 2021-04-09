@@ -30,6 +30,6 @@ PYDICOM is not part of the standard Python modules included with TouchDesigner. 
 Once Python is installed you can follow the PYDICOM installation directions found here: https://github.com/pydicom/pydicom
 
 ## Team
-Jake Mandel, Jeffers Egan, Jarrett Smith
+Jacob C Mandell, M.D, Jeffers Egan, Jarrett Smith
 
 
