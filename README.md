@@ -5,7 +5,7 @@ https://pydicom.github.io
 
 ## Dependencies
 
-* Latest Experimental Version of TouchDesigner
+* TouchDesigner 2021.10000+ 
 * Python 3.7.2
 * pydicom
 * pillow
@@ -13,11 +13,23 @@ https://pydicom.github.io
 * pylibjpeg-libjpeg
 * pylibjpeg-openjpeg
 
-## Installation
+## TouchDesigner Installation
 
+Install the latest version of TouchDesigner.
 
+https://derivative.ca/download
+
+For more information on installing TouchDesigner go here...
+
+https://docs.derivative.ca/Install_TouchDesigner
+
+## Python Installation
+
+PYDICOM is not part of the standard Python modules included with TouchDesigner. You must install Python 3.7.2 and ensure Python is available to the Windows path.
+
+Once Python is installed you can follow the PYDICOM installation directions found here: https://github.com/pydicom/pydicom
 
 ## Team
-Jake Mandel, Jeffers Egan, Jarrett Smith
+Jacob C Mandell, M.D, Jeffers Egan, Jarrett Smith
 
 
